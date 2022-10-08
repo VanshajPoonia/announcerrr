@@ -4,8 +4,7 @@
 
 Screenshot of the website in action:
 
-[![image.png](https://i.postimg.cc/13G7djMR/image.png)](https://postimg.cc/DSzcJ5tR)
-
+[![Screenshot-2707.png](https://s7.gifyu.com/images/Screenshot-2707.png)](https://gifyu.com/image/S9HCX)
 ## Development
 
 Clone this repo and run:
